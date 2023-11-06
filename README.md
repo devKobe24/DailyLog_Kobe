@@ -4,8 +4,9 @@
 ## 📚 목차
 - [팀원소개](#-팀원-소개)
 - [타임라인](#-타임라인)
-- [Todo](#-Todo)
 - [Repository](#-Repository)
+- [Todo](#-Todo)
+
 
 ## 🧑‍💻 팀원 소개
 | <img src="https://github.com/devKobe24/BranchTest/blob/main/IMG_5424.JPG?raw=true" width="200" height="200"/> |
@@ -17,7 +18,15 @@
 
 | 날짜 | 진행 사항 |
 | -------- | -------- |
-| 23.11.05.(일)     | 새벽 운동</br> 설득의 심리학 독서</br>컴퓨터 구조의 큰 그림 파트 공부(CS Study)</br>|
+| 23.11.05.(일) | 새벽 운동</br> 설득의 심리학 독서</br>컴퓨터 구조의 큰 그림 파트 공부(CS Study)</br>|
+| 23.11.06.(월) | iOS 기술 면접 스터디.</br>몽고DB 정리.</br>Hashtag 프로젝트.|
+
+## 💾 Repository
+
+| 날짜 | 관련 레포지토리 | 설명 |
+| -------- | -------- | -------- |
+| 23.11.05.(일) | [Kobe의 CS공부 🧑‍💻](https://github.com/devKobe24/CS)</br>[Hashtag](https://github.com/devKobe24/hashtag/tree/main) | 컴퓨터 구조의 큰 그림 파트 공부.</br>11월 05일 진행한 Hashtag 앱 프로젝트 레포지토리. |
+| 23.11.06.(월) | [Hashtag](https://github.com/devKobe24/hashtag)</br>[iOS 인터뷰 시리즈](https://github.com/devKobe24/iOS-Interview/blob/main/Interview/content/231106.md) | 11월 6일 진행한 Hashtag 앱 프로젝트 레포지토리.</br>11월 6일에 작성한 iOS 인터뷰 시리즈(순환참조,ARC).|
 
 ## 🙋‍♂️ Todo
 
@@ -48,17 +57,14 @@
 - 23.11.07.(화)
     - 3시00분 기상 ~ 4시 10분까지 운동.
     - 독서.
+    - iOS 기술 면접 스터디
     - 알고리즘.
     - Hashtag 프로젝트.
 
 - [x] 새벽 운동
 - [x] 독서(설득의 심리학)
+- [ ] iOS 기술 면접 스터디
 - [ ] 알고리즘.(프로그래머스)
 - [ ] Hashtag 프로젝트
 
-## 💾 Repository
 
-| 날짜 | 관련 레포지토리 | 설명 |
-| -------- | -------- | -------- |
-| 23.11.05.(일) | [Kobe의 CS공부 🧑‍💻](https://github.com/devKobe24/CS)</br>[Hashtag](https://github.com/devKobe24/hashtag/tree/main) | 컴퓨터 구조의 큰 그림 파트 공부.</br>11월 05일 진행한 Hashtag 앱 프로젝트 레포지토리. |
-| 23.11.06.(월) | [Hashtag](https://github.com/devKobe24/hashtag)</br>[iOS 인터뷰 시리즈](https://github.com/devKobe24/iOS-Interview/blob/main/Interview/content/231106.md) | 11월 6일 진행한 Hashtag 앱 프로젝트 레포지토리.</br>11월 6일에 작성한 iOS 인터뷰 시리즈(순환참조,ARC).
