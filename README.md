@@ -27,7 +27,7 @@
 | -------- | -------- | -------- |
 | 23.11.05.(일) | [Kobe의 CS공부 🧑‍💻](https://github.com/devKobe24/CS)</br>[Hashtag](https://github.com/devKobe24/hashtag/tree/main) | 컴퓨터 구조의 큰 그림 파트 공부.</br>11월 05일 진행한 Hashtag 앱 프로젝트 레포지토리. |
 | 23.11.06.(월) | [Hashtag](https://github.com/devKobe24/hashtag)</br>[iOS 인터뷰 시리즈](https://github.com/devKobe24/iOS-Interview/blob/main/Interview/content/231106.md) | 11월 6일 진행한 Hashtag 앱 프로젝트 레포지토리.</br>11월 6일에 작성한 iOS 인터뷰 시리즈(순환참조,ARC).|
-| 23.11.07.(화) | [Hashtag](https://github.com/devKobe24/hashtag)</br>[iOS 인터뷰 시리즈](https://github.com/devKobe24/iOS-Interview)</br>[알고리즘 스터디](https://github.com/devKobe24/algorithm)</br> |
+| 23.11.07.(화) | [Hashtag](https://github.com/devKobe24/hashtag)</br>[iOS 인터뷰 시리즈](https://github.com/devKobe24/iOS-Interview)</br>[알고리즘 스터디](https://github.com/devKobe24/algorithm)</br> | 11월 7일 진행한 Hashtag 앱 프로젝트 레포지토리.</br>11월 7일에 작성한 iOS 인터뷰 시리즈(Struct,Class,ARC).</br>11월 7일에 진행할 알고리즘 스터디 "Lv_0 뒤에서 5등 위로"
 
 ## 🙋‍♂️ Todo
 
