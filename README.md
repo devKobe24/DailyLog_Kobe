@@ -20,6 +20,8 @@
 | 23.11.05.(일) | 새벽 운동</br> 설득의 심리학 독서</br>컴퓨터 구조의 큰 그림 파트 공부(CS Study)</br>|
 | 23.11.06.(월) | iOS 기술 면접 스터디.</br>몽고DB 정리.</br>Hashtag 프로젝트.|
 | 23.11.07.(화) | 새벽 운동</br> 설득의 심리학 독서</br>iOS 기술 면접 스터디.</br>알고리즘</br>Hashtag 프로젝트.</br>이력서 수정 |
+| 23.11.08.(수) | 새벽 운동</br> 설득의 심리학 독서</br>알고리즘</br>Hashtag 프로젝트</br>이력서 수정</br> |
+| 23.11.09.(목) | 새벽 운동</br> 설득의 심리학 독서</br>알고리즘</br>Hashtag 프로젝트</br>TIL</br>RxSwift 스터디
 
 ## 💾 Repository
 
@@ -28,6 +30,7 @@
 | 23.11.05.(일) | [Kobe의 CS공부 🧑‍💻](https://github.com/devKobe24/CS)</br>[Hashtag](https://github.com/devKobe24/hashtag/tree/main) | 컴퓨터 구조의 큰 그림 파트 공부.</br>11월 05일 진행한 Hashtag 앱 프로젝트 레포지토리. |
 | 23.11.06.(월) | [Hashtag](https://github.com/devKobe24/hashtag)</br>[iOS 인터뷰 시리즈](https://github.com/devKobe24/iOS-Interview/blob/main/Interview/content/231106.md) | 11월 6일 진행한 Hashtag 앱 프로젝트 레포지토리.</br>11월 6일에 작성한 iOS 인터뷰 시리즈(순환참조,ARC).|
 | 23.11.07.(화) | [Hashtag](https://github.com/devKobe24/hashtag)</br>[iOS 인터뷰 시리즈](https://github.com/devKobe24/iOS-Interview)</br>[알고리즘 스터디](https://github.com/devKobe24/algorithm)</br> | 11월 7일 진행한 Hashtag 앱 프로젝트 레포지토리.</br>11월 7일에 작성한 iOS 인터뷰 시리즈(Struct,Class,ARC).</br>11월 7일에 진행할 알고리즘 스터디 "Lv_0 뒤에서 5등 위로"
+| 23.11.08.(수) | [Hashtag](https://github.com/devKobe24/hashtag)</br>[알고리즘 스터디](https://github.com/devKobe24/algorithm)</br>[이력서](https://github.com/devKobe24) | 11월 8일에 진행한 Hashtag 앱 프로젝트 레포지토리.</br>11월 8일에 풀이한 알고리즘 스터디 레포지토리.</br>11월 8일에 수정한 이력서.
 
 ## 🙋‍♂️ Todo
 
@@ -86,4 +89,23 @@
 - [x] 알고리즘(프로그래머스).
 - [x] Hashtag 프로젝트.
 - [x] 이력서 수정.
+
+- 23.11.09.(목)
+    - 2시 55분 기상 ~ 3시 35분까지 운동.
+    - 독서.
+    - RxSwift 스터디.
+    - iOS 기술 면접 스터디.
+    - 알고리즘.
+    - Hashtag 프로젝트.
+    - TIL
+
+- [x] 새벽 운동.
+- [x] 독서(설득의 심리학).
+- [x] RxSwift 스터디.
+- [ ] iOS 기술 면접 스터디.
+- [x] 알고리즘(프로그래머스).
+- [x] Hashtag 프로젝트.
+- [x] TIL
+
+
 
