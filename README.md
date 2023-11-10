@@ -21,7 +21,8 @@
 | 23.11.06.(월) | iOS 기술 면접 스터디.</br>몽고DB 정리.</br>Hashtag 프로젝트.|
 | 23.11.07.(화) | 새벽 운동</br> 설득의 심리학 독서</br>iOS 기술 면접 스터디.</br>알고리즘</br>Hashtag 프로젝트.</br>이력서 수정 |
 | 23.11.08.(수) | 새벽 운동</br> 설득의 심리학 독서</br>알고리즘</br>Hashtag 프로젝트</br>이력서 수정</br> |
-| 23.11.09.(목) | 새벽 운동</br> 설득의 심리학 독서</br>알고리즘</br>Hashtag 프로젝트</br>TIL</br>RxSwift 스터디
+| 23.11.09.(목) | 새벽 운동</br> 설득의 심리학 독서</br>알고리즘</br>Hashtag 프로젝트</br>TIL</br>RxSwift 스터디</br>|
+| 23.11.10.(금) | 새벽 운동</br> 설득의 심리학 독서</br>알고리즘</br>Vapor 프로젝트</br>TIL |
 
 ## 💾 Repository
 
@@ -31,6 +32,8 @@
 | 23.11.06.(월) | [Hashtag](https://github.com/devKobe24/hashtag)</br>[iOS 인터뷰 시리즈](https://github.com/devKobe24/iOS-Interview/blob/main/Interview/content/231106.md) | 11월 6일 진행한 Hashtag 앱 프로젝트 레포지토리.</br>11월 6일에 작성한 iOS 인터뷰 시리즈(순환참조,ARC).|
 | 23.11.07.(화) | [Hashtag](https://github.com/devKobe24/hashtag)</br>[iOS 인터뷰 시리즈](https://github.com/devKobe24/iOS-Interview)</br>[알고리즘 스터디](https://github.com/devKobe24/algorithm)</br> | 11월 7일 진행한 Hashtag 앱 프로젝트 레포지토리.</br>11월 7일에 작성한 iOS 인터뷰 시리즈(Struct,Class,ARC).</br>11월 7일에 진행할 알고리즘 스터디 "Lv_0 뒤에서 5등 위로"
 | 23.11.08.(수) | [Hashtag](https://github.com/devKobe24/hashtag)</br>[알고리즘 스터디](https://github.com/devKobe24/algorithm)</br>[이력서](https://github.com/devKobe24) | 11월 8일에 진행한 Hashtag 앱 프로젝트 레포지토리.</br>11월 8일에 풀이한 알고리즘 스터디 레포지토리.</br>11월 8일에 수정한 이력서.
+| 23.11.09.(목) | [Hashtag](https://github.com/devKobe24/hashtag)</br>[RxSwift 스터디](https://github.com/devKobe24/RxSwift-Study)</br>[알고리즘 스터디](https://github.com/devKobe24/algorithm)</br>[TIL](https://github.com/devKobe24/TIL)</br>| 11월 9일에 진행한 Hashtag 앱 프로젝트 레포지토리.</br>11월 9일에 진행한 RxSwift 스터디 프로젝트 레포지토리.</br>11월 9일에 풀이한 알고리즘 스터디 레포지토리.</br> 11월 9일에 작성한 TIL 레포지토리. |
+| 23.11.10.(금) |[알고리즘 스터디](https://github.com/devKobe24/algorithm)</br>[Vapor](https://github.com/devKobe24/Webauthn_API_Tutorial)</br>[TIL](https://github.com/devKobe24/TIL)</br> | 11월 10일에 풀이한 알고리즘 스터디 레포지토리.</br>11월 10일에 진행한 Vapor 프로젝트 레포지토리.</br>11월 10일에 작성한 TIL 레포지토리.</br>|
 
 ## 🙋‍♂️ Todo
 
@@ -107,5 +110,19 @@
 - [x] Hashtag 프로젝트.
 - [x] TIL
 
+- 23.11.10.(금)
+    - 5시 40분 기상 ~ 6시 40분 운동
+    - 독서
+    - Vapor 프로젝트
+    - 알고리즘
+    - TIL
+    - Hastag 프로젝트
+
+- [x] 새벽 운동.
+- [x] 독서(설득의 심리학).
+- [x] Vapor 프로젝트
+- [x] 알고리즘
+- [x] TIL
+- [ ] Hastag 프로젝트
 
 
