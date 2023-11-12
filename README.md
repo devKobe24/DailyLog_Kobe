@@ -23,7 +23,8 @@
 | 23.11.08.(수) | 새벽 운동</br> 설득의 심리학 독서</br>알고리즘</br>Hashtag 프로젝트</br>이력서 수정</br> |
 | 23.11.09.(목) | 새벽 운동</br> 설득의 심리학 독서</br>알고리즘</br>Hashtag 프로젝트</br>TIL</br>RxSwift 스터디</br>|
 | 23.11.10.(금) | 새벽 운동</br> 설득의 심리학 독서</br>알고리즘</br>Vapor 프로젝트</br>TIL |
-| 23.11.11.(금) | 알고리즘</br>라이브러리 배포</br>TIL</br>자료구조 공부 |
+| 23.11.11.(토) | 알고리즘</br>라이브러리 배포</br>TIL</br>자료구조 공부 |
+| 23.11.12.(일) | Vapor 프로젝트</br>TIL</br>자료구조 공부 |
 
 ## 💾 Repository
 
@@ -35,7 +36,8 @@
 | 23.11.08.(수) | [Hashtag](https://github.com/devKobe24/hashtag)</br>[알고리즘 스터디](https://github.com/devKobe24/algorithm)</br>[이력서](https://github.com/devKobe24) | 11월 8일에 진행한 Hashtag 앱 프로젝트 레포지토리.</br>11월 8일에 풀이한 알고리즘 스터디 레포지토리.</br>11월 8일에 수정한 이력서.
 | 23.11.09.(목) | [Hashtag](https://github.com/devKobe24/hashtag)</br>[RxSwift 스터디](https://github.com/devKobe24/RxSwift-Study)</br>[알고리즘 스터디](https://github.com/devKobe24/algorithm)</br>[TIL](https://github.com/devKobe24/TIL)</br>| 11월 9일에 진행한 Hashtag 앱 프로젝트 레포지토리.</br>11월 9일에 진행한 RxSwift 스터디 프로젝트 레포지토리.</br>11월 9일에 풀이한 알고리즘 스터디 레포지토리.</br> 11월 9일에 작성한 TIL 레포지토리. |
 | 23.11.10.(금) |[알고리즘 스터디](https://github.com/devKobe24/algorithm)</br>[Vapor](https://github.com/devKobe24/Webauthn_API_Tutorial)</br>[TIL](https://github.com/devKobe24/TIL)</br> | 11월 10일에 풀이한 알고리즘 스터디 레포지토리.</br>11월 10일에 진행한 Vapor 프로젝트 레포지토리.</br>11월 10일에 작성한 TIL 레포지토리.</br>|
-| 23.11.10.(금) |[알고리즘 스터디](https://github.com/devKobe24/algorithm)</br>[자료구조](https://github.com/devKobe24/DataStructurel)</br>[TIL](https://github.com/devKobe24/TIL)</br>[UIKobeKit](https://github.com/devKobe24/UIKobeKit)</br> | 11월 11일에 풀이한 알고리즘 스터디 레포지토리.</br>11월 11일에 공부한 자료구조 레포지토리.</br>11월 11일에 배포한 UIKobeKit 라이브러리.</br>|
+| 23.11.11.(토) |[알고리즘 스터디](https://github.com/devKobe24/algorithm)</br>[자료구조](https://github.com/devKobe24/DataStructurel)</br>[TIL](https://github.com/devKobe24/TIL)</br>[UIKobeKit](https://github.com/devKobe24/UIKobeKit)</br> | 11월 11일에 풀이한 알고리즘 스터디 레포지토리.</br>11월 11일에 공부한 자료구조 레포지토리.</br>11월 11일에 배포한 UIKobeKit 라이브러리.</br>|
+| 23.11.12.(일) |[자료구조](https://github.com/devKobe24/DataStructurel)</br>[TIL](https://github.com/devKobe24/TIL)</br>[Vapor 프로젝트](https://github.com/devKobe24/Webauthn_API_Tutorial)</br> | 11월 12일에 공부한 자료구조 레포지토리.</br>11월 12일에 작성한 TIL 레포지토리.</br>11월 12일에 진행한 Vapor 프로젝트 레포지토리.</br>|
 
 ## 🙋‍♂️ Todo
 <details>
@@ -141,6 +143,22 @@
 - [x] 자료구조 공부
 - [x] 알고리즘
 - [x] TIL
+    
+- 23.11.12.(일)
+    - 5시 10분 기상
+    - 독서(설득의 심리학)
+    - 자료구조 공부
+    - 알고리즘
+    - TIL
+    - iOS 인터뷰 시리즈
+
+- [x] 독서
+- [x] 자료구조 공부
+- [ ] 알고리즘
+- [x] TIL
+- [ ] iOS 인터뷰 시리즈
+
+</details>
 
 </details>
 
