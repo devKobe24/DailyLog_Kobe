@@ -3,11 +3,12 @@
 
 ## 📚 목차
 - [팀원소개](#-팀원-소개)
-- [타임라인](#-타임라인)
-- [Repository](#-Repository)
-- [Todo](#-Todo)
+- [WIKI](#-WIKI)
 
 ## 🧑‍💻 팀원 소개
 | <img src="https://github.com/devKobe24/BranchTest/blob/main/IMG_5424.JPG?raw=true" width="200" height="200"/> |
 | :-: |
 | [<img src="https://hackmd.io/_uploads/SJEQuLsEh.png" width="20"/> **Kobe**](https://github.com/devKobe24) |
+
+## 📚 WIKI
+[WIKI-DAYILY-LOG]()
