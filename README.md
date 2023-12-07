@@ -11,4 +11,4 @@
 | [<img src="https://hackmd.io/_uploads/SJEQuLsEh.png" width="20"/> **Kobe**](https://github.com/devKobe24) |
 
 ## 📚 WIKI
-[WIKI-DAYILY-LOG]()
+[DAILY-LOG](https://github.com/devKobe24/DailyLog_Kobe/wiki/DAILY%E2%80%90LOG)
